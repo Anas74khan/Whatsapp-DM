@@ -1,1 +1,3 @@
-"#Whatsapp-DM" 
+This is a web app that lets you message someone on whatsapp directly whitout saving there you just have to type their number and message you will be prompted to whatsapp of that number with that message there. If you dont specify any number any type message and click send you will be prompted to whatsapp where you can add multiple contacts whom you want to send that message. If you dont specify message and entered a correct number you will be prompted to whatsapp with no message in message box.
+
+NOTE: This web app works only for indian number if anyone wants to use it for other country just chats js/my-app.js on change event of mobile number replace 91 to required country code.
